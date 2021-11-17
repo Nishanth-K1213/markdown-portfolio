@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- 🐱
+- 🐶
+
+in order
+
+1. dog
+2. cat
